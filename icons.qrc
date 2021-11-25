@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>help/addedge.png</file>
+        <file>help/addnode.png</file>
+        <file>help/deledge.png</file>
+        <file>help/dellall.png</file>
+        <file>help/delnode.png</file>
+        <file>help/edges.png</file>
+        <file>help/graph_creation.htm</file>
+        <file>help/graph_file.htm</file>
+        <file>help/help.png</file>
+        <file>help/main.htm</file>
+        <file>help/nodes.png</file>
+        <file>help/open.png</file>
+        <file>help/save_open_menu.htm</file>
+        <file>help/savef.png</file>
+        <file>icons/addedge.png</file>
+        <file>icons/addnode.png</file>
+        <file>icons/algo.png</file>
+        <file>icons/breakgraph.png</file>
+        <file>icons/deledge.png</file>
+        <file>icons/dellall.png</file>
+        <file>icons/delnode.png</file>
+        <file>icons/edges.png</file>
+        <file>icons/help.png</file>
+        <file>icons/nodes.png</file>
+        <file>icons/open.png</file>
+        <file>icons/openlist.png</file>
+        <file>icons/savef.png</file>
+        <file>icons/icon.png</file>
+        <file>icons/icon.rc</file>
+        <file>icons/icon.ico</file>
+    </qresource>
+</RCC>
